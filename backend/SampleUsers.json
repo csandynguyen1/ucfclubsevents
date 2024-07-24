@@ -1,0 +1,64 @@
+{
+  "Users": [
+    {
+      "firstname": "Sarah",
+      "lastname": "Williams",
+      "userName": "sarah.williams",
+      "password": "sarahpassword123",
+      "email": "sarah.williams@example.com",
+      "role": 1,
+      "clubList": [
+        "60d0fe4f5311236168a109cf"
+      ]
+    },
+    {
+      "firstname": "Charlie",
+      "lastname": "Brown",
+      "userName": "charlieb",
+      "password": "charliepassword",
+      "email": "charlie@example.com",
+      "role": 1,
+      "clubList": [
+        "60d0fe4f5311236168a109cd",
+        "60d0fe4f5311236168a109ce",
+        "60d0fe4f5311236168a109cf"
+      ]
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Garcia",
+      "userName": "sophia.garcia",
+      "password": "p@ssw0rd!",
+      "email": "sophia.garcia@example.com",
+      "role": 1
+    },
+    {
+      "firstName": "Liam",
+      "lastName": "Nguyen",
+      "userName": "liam.nguyen",
+      "password": "securepass123",
+      "email": "liam.nguyen@example.com",
+      "role": 0
+    },
+    {
+      "firstname": "Bob",
+      "lastname": "Johnson",
+      "userName": "bobjohnson",
+      "password": "bobpassword",
+      "email": "bob@example.com",
+      "role": 1,
+      "clubList": [
+        "60d0fe4f5311236168a109cc"
+      ]
+    },
+    {
+      "firstname": "John",
+      "lastname": "Smith",
+      "userName": "john.smith",
+      "password": "johnpassword123",
+      "email": "john.smith@example.com",
+      "role": 0,
+      "clubList": []
+    }
+  ]
+}
