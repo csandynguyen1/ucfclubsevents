@@ -17,10 +17,10 @@ and help bring students closer together
 [Nehito](https://github.com/NEHITO09)
 
 # Tools
-MERN STACK <br \>
-Javascript / Tailwind <br \>
-Flutter / AndroidStudio (Dart) <br \>
-MongoDB <br \>
+MERN STACK <br />
+Javascript / Tailwind <br />
+Flutter / AndroidStudio (Dart) <br />
+MongoDB <br />
 
 ### Original Repository
 https://github.com/juwelB/Large-Project
