@@ -1,7 +1,12 @@
 # UCF Clubs and Events
 This project is a concept for a UCF club and event application that aims to provide <br />
 information about the numerous clubs and events happening on the school campus; <br />
-and help bring students closer together
+and help bring students closer together <br />
+<br />
+Here is an mockup image: <br />
+
+![Example Image](images/frontendmock.png) <br />
+
 
 # Contributers
 [Kirby](https://github.com/KirbysGit)
