@@ -1,6 +1,6 @@
 # UCF Clubs and Events
-This project is a concept for a UCF club and event application that aims to provide <br \>
-information about the numerous clubs and events happening on the school campus; <br \>
+This project is a concept for a UCF club and event application that aims to provide <br />
+information about the numerous clubs and events happening on the school campus; <br />
 and help bring students closer together
 
 # Contributers
